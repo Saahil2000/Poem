@@ -1,0 +1,33 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:700);
+@import url(https://fonts.googleapis.com/css?family=Khula:700);
+@import url('https://fonts.googleapis.com/css?family=Shadows+Into+Light');
+
+
+body {
+    background:  url(images/ish.jpg) no-repeat center center fixed; 
+    image-rendering: -webkit-optimize-contrast;
+    /* -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    font-family: 'Shadows Into Light', cursive; */
+    background-position: 130% 0;
+    background-size:60%;
+}
+
+p {
+
+  font-family:'Times New Roman', Times, serif;
+  font-weight: bold;
+  font-size:1.6em;
+  text-align:left;
+  font-style: italic;
+  height:160px;
+  width:600px;
+  display:block;
+  position:absolute;
+  color:black;
+  top:30px;
+  left:10px;
+  margin:auto;
+  }
